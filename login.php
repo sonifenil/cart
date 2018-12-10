@@ -46,11 +46,11 @@ echo "<strong>Incorrect username/password</strong>";
 <table>
 <tr>
 <td>Username</td>
-<td><input type="textbox" name="userBox">
+<td><input type="textbox" name="userBox" requuired>
 </tr>
 <tr>
 <td>Password</td>
-<td><input type="password" name="passBox">
+<td><input type="password" name="passBox"  requuired>
 </tr>
 <tr>
 <td></td>
