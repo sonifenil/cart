@@ -61,4 +61,5 @@ echo "<strong>Incorrect username/password</strong>";
 <?php
 }
 require("footer.php");
+eho "modifid by feil";
 ?>
